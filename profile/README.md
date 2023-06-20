@@ -5,7 +5,7 @@ Softnet Free is licensed under GNU GPL v3 or any later version. You can use, mod
 
 As of June 2023, the [Softnet client library](https://github.com/Softnet-Free/softnet-java/) is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The client libraries for other platforms are under development. We are mainly targeting widespread 32bit microcontrollers (STM32, PIC32, etc.) from leading manufactories such as STMicroelectronics, Microchip Technology, NXP, Texas Instruments, Infineon, etc.  
 
-If you want to learn more about the Softnet platform, the following sources will be helpful:
+If you want to know more about the Softnet platform, the following sources will be helpful:
 
 * [Softnet Programming Model (Java)](https://softnet-free.github.io/softnet-java/) / This guide describes the process of developing IoT applications using Softnet Java Library;
 * [The Developer’s Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide provides the specification for the API of the Softnet ASN.1 Codec (Java). As an option, Softnet allows you to use the ASN.1 DER format to transfer data over the network, although you can use any other format, such as JSON;
