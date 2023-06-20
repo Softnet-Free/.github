@@ -3,7 +3,7 @@ Softnet Free is a communication platform for autonomous devices with embedded TC
 
 Softnet Free is licensed under GNU GPL v3 or any later version. You can use, modify and distribute the server software and client libraries without any restrictions. We’ll be glad if you participate in the further development and improvement of the project.
 
-As of June 2023, the [Softnet client library](https://github.com/Softnet-Free/softnet-java/) is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The client libraries for other platforms are under development. First of all, we are targeting widespread 32bit microcontrollers (STM32, PIC32, etc.) from leading manufactories such as STMicroelectronics, Microchip Technology, NXP, Texas Instruments, Infineon, etc.  
+As of June 2023, the [Softnet client library](https://github.com/Softnet-Free/softnet-java/) is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The client libraries for other platforms are under development. We are mainly targeting widespread 32bit microcontrollers (STM32, PIC32, etc.) from leading manufactories such as STMicroelectronics, Microchip Technology, NXP, Texas Instruments, Infineon, etc.  
 
 If you want to learn more about the Softnet platform, the following sources will be helpful:
 
