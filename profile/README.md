@@ -19,6 +19,9 @@ Typically, device manufacturers use cloud platforms to ensure the networking cap
 
 The good news is that the communication tasks we are talking about can be organized, structured, and implemented within a single, unified platform. This platform could be used on its own, as well as integrated into application-specific cloud platforms or run as a service with a unified API to serve other platforms that require networking capabilities for embedded systems. These considerations form the basis of the Softnet Free concept.  
 
+Let’s see what Softnet Free offers to developers and users.  
+
+**Closed address space**. Unlike a typical database-driven Internet service, an embedded system connected to a network provides access to the resources of an electromechanical device. Usually these resources are quite limited, hence the networked device has a rather limited set of clients. Softnet implement this idea within the concept of Site, which establishes a micronetwork with a closed address space. 
 
 
 <!--
