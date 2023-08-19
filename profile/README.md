@@ -17,6 +17,8 @@ In recent years, TCP/IP-enabled embedded systems have been increasingly used in 
 
 Typically, device manufacturers use cloud platforms to ensure the networking capabilities of their products. In addition, a cloud platform can store application data, apply analytics to the data, and use artificial intelligence to take decisions. While suitable platforms may already exist for some popular IoT applications, such as platforms for controlling drones over 4G networks, new ideas in IoT are being born all the time and problems with remote communication are still relevant. The development of such a platform is a complex and expensive task even when the devices to be networked are relatively simple. This can be a major barrier for start-ups, small-scale manufacturers and Do-It-Yourself developers.  
 
+Fortunately, the communication model for interacting with autonomous devices can be formalized, structured, and put into practice by creating a single, unified platform. This platform would be used on its own, as well as integrated into application-specific cloud platforms or run as a service with a unified API to serve other platforms that require networking capabilities for embedded systems. These considerations form the basis of the Softnet Free concept.  
+
 
 
 <!--
