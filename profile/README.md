@@ -7,7 +7,7 @@ As of June 2023, the [Softnet endpoint library](https://github.com/Softnet-Free/
 
 ## Resources for developers
 
-If you want to know more about the Softnet platform, the following sources will be helpful:
+If you want to know more about the Softnet platform, the following resources will be helpful:
 * [Softnet Programming Model (Java)](https://softnet-free.github.io/softnet-java/) / This guide describes the process of developing IoT applications using Softnet Java Library;
 * [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide provides the specification for the API of Softnet ASN.1 Codec (Java). As an option, Softnet allows you to use the ASN.1 DER format to transfer data over a network, although you can use any other format, such as JSON;
 
