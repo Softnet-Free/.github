@@ -10,9 +10,9 @@ Softnet Free is licensed under Apache License, Version 2.0. You can use, modify 
 
 * [Softnet ASN.1 Codec (Java)](https://github.com/softnet-free/asn1codec-java) / This is an ASN.1 DER codec that Softnet uses to represent data in the ASN.1 DER format for transmitting data over a network. This tool can also be used to encode/decode application data for transmitting over a network, although you can use any other format, such as JSON;
 
-* [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide describes how to use Softnet ASN.1 Codec (Java) in the application development;
+* [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This is a guide that describes how to use Softnet ASN.1 Codec (Java) in the application development;
 
-* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This guide describes how to use Softnet MS to manage IoT projects.
+* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This is a guide that describes how to use Softnet MS to manage IoT projects.
 
 ## A brief description of the platform
 
