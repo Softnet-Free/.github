@@ -6,11 +6,11 @@ Softnet Free is licensed under Apache License, Version 2.0. You can use, modify 
 
 * [Softnet Endpoint Library (Java)](https://github.com/Softnet-Free/softnet-java/) / As of June 2023, the endpoint library is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The endpoint libraries for other platforms are under development. First of all, we focus on FreeRTOS, ChibiOS/RT and other RTOS platforms widely used in industrial microcontrollers such as STM32, PIC32, EFR32, Infineon XMC, TI SimpleLink, ESP32, etc.;  
 
-* [Softnet Programming Model in Java](https://softnet-free.github.io/softnet-java/) / This guide describes the process of application development using Softnet Endpoint Library in Java;  
+* [Softnet Programming Model in Java](https://softnet-free.github.io/softnet-java/) / This guide explains the process of application development using Softnet Endpoint Library in Java;  
 
 * [Softnet ASN.1 Codec (Java)](https://github.com/softnet-free/asn1codec-java) / This is an ASN.1 DER codec that Softnet uses to represent data in the ASN.1 DER format for transmitting data over a network. This tool can also be used to encode/decode application data for transmitting over a network, although you can use any other format, such as JSON;
 
-* [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide describes how to use Softnet ASN.1 Codec (Java) in the application development;
+* [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide explains how to use Softnet ASN.1 Codec (Java) in the application development;
 
 * [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This guide explains how to use the management system called Softnet MS for managing devices and clients utilizing the Softnet platform.
 
