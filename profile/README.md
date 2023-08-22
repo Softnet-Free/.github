@@ -14,7 +14,7 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
 
 * [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide explains how to use **Softnet ASN.1 Codec (Java)** in the application development;
 
-* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This guide explains how to manage devices and clients utilizing the Softnet platform.
+* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This guide explains how to perform administration tasks on devices and clients that utilize the Softnet platform.
 
 ## A brief description of the platform
 
