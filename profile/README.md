@@ -8,7 +8,7 @@ Softnet Free is licensed under Apache License, Version 2.0. You can use, modify 
 
 * [Softnet Programming Model in Java](https://softnet-free.github.io/softnet-java/) / This guide explains the process of application development using Softnet Endpoint Library in Java;  
 
-* [Softnet ASN.1 Codec (Java)](https://github.com/softnet-free/asn1codec-java) / This is an ASN.1 codec that Softnet uses to represent data in the ASN.1 DER format for transmitting data over a network. This tool can also be used to encode/decode application data for transmitting over a network, although you can use any other format, such as JSON;
+* [Softnet ASN.1 Codec (Java)](https://github.com/softnet-free/asn1codec-java) / This is an ASN.1 codec that Softnet uses to represent data in the ASN.1 DER format for transmitting over a network. This tool can also be used to encode/decode application data for transmitting over a network, although you can use any other format, such as JSON;
 
 * [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide explains how to use Softnet ASN.1 Codec (Java) in the application development;
 
