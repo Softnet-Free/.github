@@ -2,13 +2,13 @@ Softnet Free is an IoT communication platform for devices with embedded TCP/IP s
 
 Softnet Free is licensed under Apache License, Version 2.0. You can use, modify and distribute the server software and the endpoint libraries without any restrictions. We’ll be glad if you participate in the further development of the project.
 
-As of June 2023, the [Softnet endpoint library](https://github.com/Softnet-Free/softnet-java/) is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The endpoint libraries for other platforms are under development. First of all, we focus on FreeRTOS, ChibiOS/RT and other RTOS platforms widely used in industrial microcontrollers such as STM32, PIC32, EFR32, Infineon XMC, TI SimpleLink, ESP32, etc.
-
 ## Resources for developers
 
-If you want to know more about the Softnet platform, the following resources will be helpful:
-* [Softnet Programming Model (Java)](https://softnet-free.github.io/softnet-java/) / This guide describes the process of developing IoT applications using Softnet Java Library;
-* [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide provides the specification for the API of Softnet ASN.1 Codec (Java). As an option, Softnet allows you to use the ASN.1 DER format to transfer data over a network, although you can use any other format, such as JSON;
+As of June 2023, the [Softnet endpoint library](https://github.com/Softnet-Free/softnet-java/) is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The endpoint libraries for other platforms are under development. First of all, we focus on FreeRTOS, ChibiOS/RT and other RTOS platforms widely used in industrial microcontrollers such as STM32, PIC32, EFR32, Infineon XMC, TI SimpleLink, ESP32, etc.  
+
+"[Softnet Programming Model (Java)](https://softnet-free.github.io/softnet-java/)" is a guide that describes the process of application development using the Softnet endpoint library in Java;  
+
+Softnet uses the ASN.1 DER format for transmitting data over a network, although you can use any other format, such as JSON. "[The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/)" describes how to use Softnet ASN.1 Codec (Java) for performing encode/decode operations on the app data.
 
 ## A brief description of the platform
 
