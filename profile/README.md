@@ -12,7 +12,7 @@ Softnet Free is licensed under Apache License, Version 2.0. You can use, modify 
 
 * [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This is a guide that describes how to use Softnet ASN.1 Codec (Java) in the application development;
 
-* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This is a guide that describes how to use Softnet MS to manage IoT projects.
+* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This guide explains how to use the management system called Softnet MS for managing devices and clients utilizing the Softnet platform.
 
 ## A brief description of the platform
 
