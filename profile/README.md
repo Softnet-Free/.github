@@ -4,7 +4,7 @@ Softnet Free is licensed under Apache License, Version 2.0. You can use, modify 
 
 As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions. The endpoint libraries for other platforms are under development. First of all, we focus on FreeRTOS, ChibiOS/RT and other RTOS platforms widely used in industrial microcontrollers such as STM32, PIC32, EFR32, Infineon XMC, TI SimpleLink, ESP32, etc.
 
-## Resources for developers
+## Resources for developers and users
 
 1. **[The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)**. This is a guide to the management system used for managing devices and clients utilizing the Softnet platform. It is designed for both developers and users.
  
