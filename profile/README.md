@@ -6,9 +6,9 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
 
 ## Resources for developers
 
-Softnet Free provides a management system called Softnet MS for managing devices and clients that utilize the Softnet platform. "[The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" is a guide to Softnet MS designed for both developers and users.
+**Softnet MS**. Softnet Free provides a management system called Softnet MS for managing devices and clients that utilize the Softnet platform. "[The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" is a guide to Softnet MS designed for both developers and users.
 
-### Softnet Endpoint Library (Java)
+**Softnet Endpoint Library (Java)**. This section provides resources related to the Softnet endpoint library written in Java.
 
 * [Softnet Endpoint Library (Java)](https://github.com/Softnet-Free/softnet-java/) / This is a repo for the Softnet endpoint library written in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions;  
 
