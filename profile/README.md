@@ -6,6 +6,8 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
 
 ## Resources for developers
 
+Softnet Free provides a management system called Softnet MS to perform administration of devices and clients that utilize the Softnet platform. "[The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" is a guide to Softnet MS developed for both developers and users.
+
 * [Softnet Endpoint Library (Java)](https://github.com/Softnet-Free/softnet-java/) / This is a repo for the Softnet endpoint library written in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions;  
 
 * [Softnet Programming Model in Java](https://softnet-free.github.io/softnet-java/) / This guide explains the process of developing applications using **Softnet Endpoint Library (Java)**;  
@@ -13,8 +15,6 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
 * [Softnet ASN.1 Codec (Java)](https://github.com/softnet-free/asn1codec-java) / This is a repo for the Softnet ASN.1 codec written in Java. Softnet uses it to represent data in the ASN.1 DER format for transmitting over a network. This tool can also be used to encode/decode application data for transmitting over a network, although you can use any other format, such as JSON;
 
 * [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide explains how to use **Softnet ASN.1 Codec (Java)** in the application development;
-
-* [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/)" / This guide explains how to perform administration tasks on devices and clients that utilize the Softnet platform.
 
 ## A brief description of the platform
 
