@@ -19,7 +19,7 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
     * [Softnet MS](https://github.com/Softnet-Free/softnet-ms-aspnet) / Softnet Management System provides users with tools for managing devices and clients utilizing the Softnet platform;
     * [Softnet ServerKit](https://github.com/Softnet-Free/serverkit-c-sharp) / Softnet ServerKit is a library that contains classes and algorithmes used by the Softnet servers;
     * [Softnet ASN.1 Codec (C#)](https://github.com/Softnet-Free/asn1codec-c-sharp) / Softnet ASN.1 Codec (C#) is a codec used by the Softnet servers to encode/decode messages in the ASN.1 DER format for transmission over a network;
-    * [Softnet Administration Tool](https://github.com/Softnet-Free/admin-tool-c-sharp) / This tool is used to initially set up the platform database and assign/revoke the "Administrator" role to users;
+    * [Administration Tool](https://github.com/Softnet-Free/admin-tool-c-sharp) / This tool is used to initially set up the platform database and assign/revoke the "Administrator" role to users;
     * [Database Generation Script](https://github.com/Softnet-Free/database-script-mssql) / This is an SQL script for creating a Softnet database in MS SQL Server.
 
 ## A brief description of the platform
