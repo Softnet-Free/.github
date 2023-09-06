@@ -17,7 +17,7 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
 5. Resources for deploying Softnet servers on the Microsoft Windows platform:
     * The administrator guide for deploying and managing the Softnet servers is **coming soon**;
     * [Softnet Tracker](https://github.com/Softnet-Free/softnet-tracker-c-sharp) / This server implements the core business logic of Softnet Free;
-    * [Softnet Proxy](https://github.com/Softnet-Free/softnet-proxy-c-sharp) / This server implements mechanisms for establishing TCP and UDP connections in peer-to-peer or proxy mode;
+    * [Softnet Proxy](https://github.com/Softnet-Free/softnet-proxy-c-sharp) / This server implements mechanisms for establishing TCP and UDP connections in peer-to-peer and proxy mode;
     * [Softnet Management System](https://github.com/Softnet-Free/softnet-ms-aspnet) / Softnet MS provides users with tools for managing devices and clients utilizing the Softnet platform;
     * [Softnet ServerKit](https://github.com/Softnet-Free/serverkit-c-sharp) / This library contains classes and algorithmes used by the Softnet servers;
     * [Softnet ASN.1 Codec (C#)](https://github.com/Softnet-Free/asn1codec-c-sharp) / This codec is used by the Softnet servers to encode/decode messages in the ASN.1 DER format for transmission over a network;
