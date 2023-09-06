@@ -6,7 +6,7 @@ As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It wo
 
 ## Resources for developers and users
 
-1. [Free Test Server](http://ts.softnet-iot.org) / This is a test server with free registration where you can try out Softnet applications;
+1. [Softnet Free Demo Server](http://ts.softnet-iot.org) / This is a Softnet demo server with free registration where you can try out Softnet applications and see if the platform's functionality meets your requirements;
 2. [The User Guide to Softnet Management System](https://softnet-free.github.io/softnet-ms/) / This guide explains how to use **Softnet MS** for managing devices and clients utilizing the Softnet platform. It is designed for both developers and users.
 3. Resources for embedded Java application development:
     * [Softnet Endpoint Library (Java)](https://github.com/Softnet-Free/softnet-java/) / The Softnet endpoint library written in Java SE 1.7. It works on Linux platforms, Raspbian, Android 5.0 and later versions;
