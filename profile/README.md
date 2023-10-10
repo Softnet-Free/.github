@@ -2,7 +2,7 @@ Softnet Free is an IoT communication platform for devices with embedded TCP/IP s
 
 Softnet Free is licensed under Apache License, Version 2.0. You can use, modify and distribute both the server software and the endpoint libraries without any restrictions.
 
-As of June 2023, the Softnet endpoint library is available in Java SE 1.7. It works on Linux platforms, including the embedded Linux, as well as Armbian, Raspbian, Android 5.0 and later versions. The endpoint libraries for other platforms are under development. First of all, we focus on FreeRTOS, ChibiOS/RT, Contiki and other platforms widely used in industrial microcontrollers such as STM32, TI SimpleLink, Infineon XMC, ESP32, PIC32, EFR32, etc.
+As of October 2023, the Softnet endpoint library is available in Java SE 1.7. It works on Linux platforms, including the embedded Linux, as well as Armbian, Raspbian, Android 5.0 and later versions. The endpoint libraries for other platforms are under development. First of all, we focus on FreeRTOS, ChibiOS/RT, Contiki and other platforms widely used in industrial microcontrollers such as STM32, TI SimpleLink, Infineon XMC, ESP32, PIC32, EFR32, etc.
 
 ## Resources for developers and users
 
