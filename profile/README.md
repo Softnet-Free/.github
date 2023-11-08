@@ -1,10 +1,10 @@
 Softnet Free is an IoT communication platform for devices with embedded TCP/IP stack. It implements a software-defined networking environment for direct communication between devices. Softnet makes the TCP and UDP protocols available for use in dynamic IP environments. The platform offers Remote Procedure Calls and Pub/Sub Events as additional remote IPC mechanisms. The latter is used in event-driven interaction scenarios. The platform also supports notifications used in asynchronous communication. The Softnet mechanism of Access Control can be used to implement different levels of access to device resources, and a mechanism called Service Status Detection provides clients with information about the status of remote devices. Softnet also provides a convenient solution for managing devices, clients, user permissions, and shared access to devices with other individuals/organizations. The latter allows owners to establish user-to-user or business-to-customer relationships. Using Softnet, developers can focus on IoT application logic without concerning about networking issues.  
 
 The platform implements a number of innovative solutions, such as: 
-* Centralized management of user permissions based on the devices' built-in user roles;
-* Device access sharing mechanism;
-* Packet-switching technology for relay TCP connections. This technology is much more resource efficient than TURN for TCP;
-* Framework for seamless integration of protocols like HTTP, WebSocket, SSH, RTSP, etc., within the IoT/IIoT domain, along with the corresponding software and utilization techniques.  
+- Centralized management of user permissions based on the devices' built-in user roles;
+- Device access sharing mechanism;
+- Packet-switching technology for relay TCP connections. This technology is much more resource efficient than TURN for TCP;
+- Framework for seamless integration of protocols like HTTP, WebSocket, SSH, RTSP, etc., within the IoT/IIoT domain, along with the corresponding software and utilization techniques.  
 
 Softnet Free is licensed under Apache License, Version 2.0. You can use, modify and distribute both the server software and the endpoint libraries without any restrictions.
 
