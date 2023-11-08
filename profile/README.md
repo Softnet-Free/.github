@@ -4,7 +4,7 @@ The platform implements a number of innovative solutions, such as:
 - Centralized management of user permissions based on the devices' built-in user roles;
 - Device access sharing mechanism;
 - Packet-switching technology for relay TCP connections. This technology is much more resource efficient than TURN for TCP;
-- Framework for seamless integration of protocols like HTTP, WebSocket, SSH, RTSP, etc., within the IoT/IIoT domain, along with the corresponding software and utilization techniques.  
+- Framework for seamless integration of protocols like HTTP, WebSocket, SSH, RTSP, etc., within the IoT/IIoT domain, along with the corresponding software and utilization techniques. The integration of the protocols themselves is currently under development.   
 
 Softnet Free is licensed under Apache License, Version 2.0. You can use, modify and distribute both the server software and the endpoint libraries without any restrictions.
 
