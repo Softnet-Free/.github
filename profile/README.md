@@ -20,7 +20,7 @@ As of October 2023, the Softnet endpoint library built in Java SE 1.7 is availab
     * [Softnet Programming Model in Java](https://softnet-free.github.io/softnet-java/) / This guide explains the process of developing applications using **Softnet Endpoint Library (Java)**;
     * [Softnet ASN.1 Codec (Java)](https://github.com/softnet-free/asn1codec-java) / The ASN.1 codec written in Java. Softnet uses it to encode/decode messages in the ASN.1 DER format for transmission over a network. This tool can also be used to encode/decode application data for transmission over a network, although you can use any other format, such as JSON;
     * [The Developer Guide to Softnet ASN.1 Codec (Java)](https://softnet-free.github.io/asn1codec-java/) / This guide explains how to use **Softnet ASN.1 Codec (Java)** in the application development;
-    * A brief developer guide is also published on [hackster.io](https://www.hackster.io/robert-koifman/softnet-free-empowering-iot-with-tcp-ip-connectivity-46a62c);
+    * A brief developer guide is also published on [hackster.io](https://www.hackster.io/robert-koifman/softnet-free-empowering-iot-with-tcp-ip-connectivity-46a62c).
 5. Resources for deploying Softnet servers on the Microsoft Windows platform:
     * The administrator guide for deploying and managing Softnet servers is **coming soon**;
     * [Softnet Tracker](https://github.com/Softnet-Free/softnet-tracker-c-sharp) / This server implements the core business logic of Softnet Free;
